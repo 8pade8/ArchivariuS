@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="ArchivariuS:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/ArchivariuS_jar</output-path>
+    <root id="archive" name="ArchivariuS.jar">
+      <element id="module-output" name="ArchivariuS" />
+    </root>
+  </artifact>
+</component>
